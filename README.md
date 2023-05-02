@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me marlinreams@gmail.com
+- marlinreams.com
 
 <!---
 Marlin-Reams/Marlin-Reams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
